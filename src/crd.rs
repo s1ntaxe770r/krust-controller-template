@@ -6,7 +6,7 @@ use serde::{Deserialize, Serialize};
 #[kube(
     group = "operators.gopher.net",
     version = "v1",
-    kind = "RateCache",
+    kind = "FooCRD",
     namespaced,
     shortname = "rcc"
 )]
