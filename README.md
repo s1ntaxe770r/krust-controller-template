@@ -2,7 +2,7 @@
 
 a minimal template for creating kube controllers in rust
 
-## Craates 
+## Crates 
 
 - kube-rs for kubernetes api
 
